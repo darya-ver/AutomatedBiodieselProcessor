@@ -2,7 +2,7 @@
 #include "Adafruit_TCS34725.h"
 #include <DallasTemperature.h>
 #include <Keypad.h>
-#include <LiquidCrystal.h>
+#include <LiquidCrystal.h> //https://playground.arduino.cc/Main/LiquidCrystal
 #include <LiquidCrystal_I2C.h>
 #include <NewPing.h>
 #include <OneWire.h>
